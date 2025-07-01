@@ -106,6 +106,8 @@ Sent payload: b'\x00\x00\x00\x08\x00\x00\x00\x00' | Received: b'func42..........
 Sent payload: b'\x13\x37\x00\x01\x00\x00\x00\x00' | Received: b'func421955......\n'
 Sent payload: b'\xde\xad\xbe\xef\x00\x00\x00\x01' | Received: b'func42......190239\n'
 ```
+Oh hello there, seems like we're halfway there.
+
 ## Combine the working payloads to one
 Try around different variations of payload until you're sure that the relevant parts are `\x13\x37\` and `\xBE\xEF`
 
