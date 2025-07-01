@@ -137,4 +137,4 @@ payload = b'\x13\x37\xBE\xEF\x01\x00\x00\x00'
         print(f"Sent payload: {payload} | Received: {data}")
 
 ```
-Get the flag `LeHACK{unsafe_modbus_packets_4_win}`
+Enjoy your flag `LeHACK{unsafe_modbus_packets_4_win}`
