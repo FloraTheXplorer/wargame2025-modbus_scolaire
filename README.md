@@ -1,4 +1,4 @@
-# wargame2025-modbus_scolaire
+# LeHack 2025 Wargame modbus_scolaire writeup
 This is my writeup for the LeHack Wargame 2025 challenge Modbus_Scolaire.
 
 ## Challenge description
